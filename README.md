@@ -30,5 +30,5 @@ Before you begin, ensure you have the following installed:
    Open your terminal and run the following command to clone the project to your local machine.
 
    ```bash
-   git clone https://github.com/sodiqbhoy1/recipe-finder.git
-   cd recipe-finder
+   git clone https://github.com/sodiqbhoy1/RecipeFinder.git
+   cd RecipeFinder
